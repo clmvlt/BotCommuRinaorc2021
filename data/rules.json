@@ -1,0 +1,15 @@
+[
+    "Aucune modification de jeu donnant un avantage n'est autorisée, si un joueur est surprit en train de tricher, il fera perdre le MDT à sa team et ne pourra plus participer au tournoi si ça en est un.",
+    "Les items interdits sont : SnowFishs, Arcs, Ender pearls, Bridges Eggs, Fireball, Potions d’Invisibilité & Saut, Bâtons KnockBack, Obsidienne, Sceaux d'eau et Pop-up Towers. Pas de possibilité de les acheter en jeu, ils seront désactivés.",
+    "L’obstruction de passages importants sur des maps, notamment le spawn ou encore l'accès du middle est interdite. Par contre, la temporisation du passage pour aller au centre, en cassant le pont ennemi est autorisé, tout abus sera sanctionné. Précisons que l'usage de la cisaille pour casser un pont est interdit.",
+    "La limite de blocks est fixée à 6 blocks, afin d'empêcher le TNT drop qui est interdit. Il est interdit de monter sur des structures pouvant vous donner un avantage de hauteur (arbres, toits, etc).",
+    "La destruction des lits est activée à partir de 6 minutes de jeu (Diamond Upgrade). Il est strictement interdit de se rendre dans la base ennemie avant la destruction des lits.",
+    "Si un joueur doit afk, l’équipe concernée doit le faire savoir et l'équipe adverse devra mettre un afk également (c'est obligatoire). L'afk tournante est interdite (Faire tourner les afk, dés qu'un joueur meurt, il devient afk et son collègue recommence à jouer). Quand le joueur n'est plus afk, il doit l’annoncer dans le chat, lorsque 2 joueurs de la même équipe doivent AFK,  la manche est à refaire. Aucun abus d'AFK ne sera toléré.",
+    "Des salons vocaux sont mis en place et doivent être obligatoirement utilisés lors des matchs de teams.",
+    "Lors des MDT officiels, il doit y avoir minimum 2 arbitres, chaque arbitre doit se mettre dans les 2 équipes restantes afin d'ajouter 2 bases avec des ressources. Les arbitres rushent seulement le centre de la map. ",
+    "L'utilisation de la cisaille pour détruire les ponts à répétition (ou non) est interdite. Elle est autorisée pour sleef un joueur (en ne cassant qu'un seul bloc).",
+    "Les améliorations Haste I et Haste II sont interdits, afin d'éviter un oneshot du bed avec hache et pioche. (En cas d'achat involontaire l'équipe le signale. L'équipe adverse doit aussi acheter l'amélioration)",
+    "Les teams qui ne seront pas présentes à l'heure du rendez-vous pour le MDT auront 15 minutes de délais maximum pour se présenter, une fois ce délai expiré, la team absente se verra perdre 2-0.",
+    "Les CPS seront limités à 14, tout dépassement de la limite entrainera une expulsion automatique.",
+    "Les TNT Fly sont interdits."
+]
